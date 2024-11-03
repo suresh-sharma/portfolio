@@ -173,7 +173,7 @@ export const education = [
       "Computer Networks",
       "Compiler Designing",
     ],
-    icon: "Master-cap",
+    icon: "graduation-cap",
   },
   {
     title: "BSC in Biology, Batany, Chemistry",
