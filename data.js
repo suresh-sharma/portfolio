@@ -146,7 +146,7 @@ export const experience = [
   {
     title: "Amadeus India Pvt. Ltd.",
     duration: "April 2011 - July 2013",
-    subtitle: "SDE Intern",
+    subtitle: "Sr. Software Engineer",
     details: [
       `3 years of experience using ASP.NET MVC, Entity Framework with ASP.NET Web API, and Agile/Scrum Development in various projects.`,
      `Good experience in writing SQL server programming queries, stored procedures, functions, views, and triggers.`,
