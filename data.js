@@ -246,7 +246,7 @@ export const footer = [
       },
        {
         text: "suresh-sharma/PortFolio",
-        link: "https://github.com/suresh-sharma/blog",
+        link: "https://github.com/suresh-sharma/PortFolio",
       },
     ],
   },
