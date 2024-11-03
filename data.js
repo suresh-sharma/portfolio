@@ -98,7 +98,7 @@ export const experience = [
               `Excellent ability to develop appropriate documentation for architectural, design, technical, implementation, and test activities.`
              ],
     tags: ["JavaScript", "Reactjs", "C#","dotnet core API", "Nodejs", "Docker", "Kuberneties"],
-    icon: "truck ",
+    icon: "plane",
   },
   {
     title: "Easyrewardz Software Services",
@@ -141,7 +141,7 @@ export const experience = [
       `Excellent ability to develop appropriate documentation for architectural, design, technical, implementation, and test activities.`
      ],
     tags: ["JavaScript", "Reactjs",".netcore 8.0","C#", "Bootstrap", "Nodejs", "Github","Azure Service"],
-    icon: "qrcode",
+    icon: "plane",
   },
   {
     title: "Amadeus India Pvt. Ltd.",
@@ -156,7 +156,7 @@ export const experience = [
       `Excellent ability to develop appropriate documentation for architectural, design, technical, implementation, and test activities.`
     ],
     tags: ["JavaScript", "C#", "Asp.net", "SQL", "TFS", "JQuery"],
-    icon: "group",
+    icon: "plane",
   },
 ];
 
