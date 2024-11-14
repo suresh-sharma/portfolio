@@ -176,11 +176,11 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "BSC in Biology, Batany, Chemistry",
+    title: "BSC in Zoology, Botany, Chemistry",
     duration: "1997 - 2000",
     subtitle: "Deendayal Upadhyay University Gorakhpur, UP",
     details: [],
-    tags: [
+    tags: ["Zoology", "Botany", "Chemistry"
       ],
     icon: "graduation-cap",
   },
