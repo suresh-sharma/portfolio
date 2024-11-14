@@ -1,6 +1,6 @@
 export const bio = [
   "Hello! I'm Suresh Sharma, an experienced Full Stack Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
+  "I am passionate about using my technical skills to drive impactful contributions in challenging projects. Currently I am work as Project Manager in Birdres Technologies Pvt. Ltd. Gurugram, Haryana.",
   "Thanks for visiting!",
 ];
 
