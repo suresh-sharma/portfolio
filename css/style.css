@@ -902,8 +902,10 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-	background: #f9bf3f;
-	color: #000;
+	//background: #f9bf3f;
+	//color: #000;
+	background: #37cdc6;
+   	color: #211;
 	padding: 1.5em;
 	margin-left: 60px;
 	-webkit-background-clip: padding-box;
